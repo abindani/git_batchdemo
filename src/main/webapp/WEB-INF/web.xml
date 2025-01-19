@@ -14,7 +14,7 @@
         <servlet-class>com.microsoft.webapp.samples.TrackerServlet</servlet-class>
         <init-param>
             <param-name>pageTitle</param-name>
-            <param-value>WELCOME TO Cloud Scale Web Management</param-value>
+            <param-value>Test page by AbinCloud Scale Web Management</param-value>
         </init-param>
     </servlet>
 
